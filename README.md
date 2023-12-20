@@ -31,6 +31,7 @@ The app was developed with a focus on simplicity and ease of use, allowing users
 
 For more technical details about the implementation, you can explore the source code in this repository.
 
+---
 
 ## 🗂️ Installation
 
