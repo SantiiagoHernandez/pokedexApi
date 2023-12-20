@@ -1,4 +1,10 @@
-![Logo](https://github.com/SantiiagoHernandez/pokedexApi/blob/main/Img/logo.svg)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/aNFT7eG2rIKK715uLk/giphy.gif" width="400" /> <br>
+   <h1 align="center">Pokedex API</h1>
+   <h2 align ="center">👊 By Santiago Hernández</h2>
+</div>
+
+---
 
 ## Characteristics
 
@@ -7,7 +13,7 @@
 - Use of colors representative of Pokémon types.
 - Easy navigation and Pokémon search.
 
-## How was the application performed?
+## ℹ️ How was the application performed?
 
 This Pokedex application was built using a combination of standard web technologies, Pokémon data from the PokeAPI, and design customization. Here's how it was done:
 
@@ -26,7 +32,7 @@ The app was developed with a focus on simplicity and ease of use, allowing users
 For more technical details about the implementation, you can explore the source code in this repository.
 
 
-## Installation
+## 🗂️ Installation
 
 - Clone this repository on your local machine using Git:
 
